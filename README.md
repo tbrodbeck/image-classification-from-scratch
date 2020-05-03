@@ -22,5 +22,5 @@ These are scripts that help creating multiple runs from the command line to sear
 
 `searchBestSetup.py` contains the content of the `imageClassificationFromScratch.py` in the form of a python script that can be executed from the command line.
 
-`scheduleRuns.sh` is a bash script to create sequentially multiple executions of `searchBestSetup.py` with different hyperparameter configuartions.
+`scheduleRuns.sh` is a bash script to create multiple executions of `searchBestSetup.py` sequentially with different hyperparameter configuartions.
 
